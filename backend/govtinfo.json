@@ -1,0 +1,70 @@
+[
+  {
+    "name": "AP & Telangana panchayatiraj commissioner office",
+    "email":"appanchatiraj@gmail.in",
+    "phone": ["8823283279"],
+    "location": {
+      "type": "Point",
+      "coordinates": [17.40146505426814, 78.48265962382455]
+    },
+    "address": "671, Hyderguda 2nd St, AP State Housing Board, Himayatnagar, Hyderabad, Telangana 500029"
+  },
+
+  {
+    "name": "Co-operation Department, Government of Andhra Pradesh",
+    "email": "rcscooperation@gmai.com",
+    "phone": ["09100109129","0863-2320600"],
+    "location": {
+      "type": "Point",
+      "coordinates": [16.408296040264503, 80.41843038469325]
+    },
+    "address": "D.No.2, Skylark Towers, 16-83, I.P.D Colony 11th Line, Syamala Nagar, Guntur, Andhra Pradesh 522006"
+  },
+
+  {
+    "name": "Central Government Offices Complex (CGO Complex)",
+    "email": "Sanjeev.kumar29@nic.in",
+    "phone": ["08662553215"],
+    "location": {
+      "type": "Point",
+      "coordinates": [16.529509847397733, 80.67686022169909]
+    },
+    "address": "FMVC+23V, Auto Nagar, Vijayawada, Andhra Pradesh 520007"
+  },
+
+  {
+    "name": "Sachivalayam",
+    "email": "Sanjeev.kumar29@nic.in",
+    "phone": ["83522745284"],
+    "location": {
+      "type": "Point",
+      "coordinates": [16.56951464004809, 80.63777484950333]
+    },
+    "address": "GJMJ+289, New Rajarajeswari Peta, Rajarajeswari Peta, Vijayawada, Andhra Pradesh 520015"
+  },
+
+  {
+    "name": "Directorate of Social Welfare",
+    "email": "swcommissioner@gmail.com",
+    "phone": ["94522745284"],
+    "location": {
+      "type": "Point",
+      "coordinates": [16.500204425951267, 80.61981348636479]
+    },
+    "address": "FJJ9+XH2, Tadepalle, Andhra Pradesh 522501"
+  },
+
+  {
+    "name": "Andhra Pradesh Secretariat",
+    "email": "secy.se.edn@gmail.com",
+    "phone": ["09550782945"],
+    "location": {
+      "type": "Point",
+      "coordinates": [16.533531461323, 80.5159390793231]
+    },
+    "address": "Room No:101, Ground Floor, Penumaka - Amaravathi Rd, Velagapudi, 4th Block, Andhra Pradesh 522503"
+  }
+
+
+
+]
