@@ -31,12 +31,6 @@ The **Calamity Response Coordination Hub** is a web-based platform that streamli
 
 ---
 
-## ⚙️ Installation Guide
-
-Follow these steps to set up the project locally.
-
----
-
 ### 📂 1. Clone the Repository
 
 ```bash
